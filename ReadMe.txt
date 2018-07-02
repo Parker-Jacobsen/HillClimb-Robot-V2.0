@@ -1,0 +1,1 @@
+This device uses a 500ms on/off cycles of servo pushes. This is sufficient to navigate through menu (after fail) and to press gas on and off. There is also a button on the module that allows you to pause functionality.
